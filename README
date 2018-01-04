@@ -1,0 +1,1 @@
+Flask listener to receive Instant Payment Notification from PayPal (https://developer.paypal.com/docs/classic/products/instant-payment-notification/)
